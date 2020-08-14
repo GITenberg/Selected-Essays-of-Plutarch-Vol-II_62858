@@ -1,0 +1,33 @@
+_repo: Selected-Essays-of-Plutarch-Vol-II_62858
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Prickard, A. O. (Arthur Octavius)
+    alias: Prickard, Arthur Octavius
+    birthdate: 1843
+    deathdate: 1939
+    gutenberg_agent_id: '52162'
+    url: http://www.gutenberg.org/2009/agents/52162
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: https://en.wikipedia.org/wiki/Plutarch
+description: From the Moralia.
+gutenberg_issued: '2020-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Ethics -- Early works to 1800'
+- GITenberg
+title: Selected Essays of Plutarch, Vol. II.
+url: http://www.gutenberg.org/ebooks/62858
